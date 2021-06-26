@@ -1,0 +1,3 @@
+change base_url in db.php file on line 37
+change base_url in assets/js/jquery.min.js on line 1
+change in assets/php/send_email.php according to your need

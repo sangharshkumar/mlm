@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^([A-Za-z0-9-]+)/([A-Za-z0-9-]+)/?$  index.php?user_id=$1&action=$2    
